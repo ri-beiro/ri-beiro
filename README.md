@@ -1,8 +1,9 @@
 # Opa! Eu sou o Lucas Ribeiro 👨‍💻
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🖥️ Assistente de T.I. com foco em **dados, automação** e **desenvolvimento web**  
-🚀 Com forte interesse em tecnologia e desenvolvimento contínuo, atuo na busca por soluções eficientes e inteligentes para desafios reais.
+- 💻 Trabalho com suporte técnico e automação de processos  
+- 📚 Cursando Análise e Desenvolvimento de Sistemas (3º semestre)  
+- 🔎 Aprendendo continuamente sobre dados, programação e cloud  
+- 🎯 Objetivo: me tornar um especialista em dados e soluções digitais inteligentes
 
 ## 🧠 Tecnologias e Ferramentas
 
@@ -18,6 +19,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-ribeiro-461950203)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.riceirao11@gmail.com)
+
+## 📊 GitHub Stats
+
+![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ri-beiro&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ri-beiro&layout=compact&theme=tokyonight)
+
+## 🚀 Projetos em Destaque
+
+- 📊 [Dashboard Financeiro em Excel](https://github.com/ri-beiro/dashboard-excel)
+- 🔧 [Automação com Power Automate](https://github.com/ri-beiro/power-automate-flow)
+- 🌐 [Site Responsivo com HTML, CSS e JS](https://github.com/ri-beiro/site-responsivo)
 
 ---
 
