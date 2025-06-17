@@ -25,12 +25,6 @@
 ![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ri-beiro&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ri-beiro&layout=compact&theme=tokyonight)
 
-## 🚀 Projetos em Destaque
-
-- 📊 [Dashboard Financeiro em Excel](https://github.com/ri-beiro/dashboard-excel)
-- 🔧 [Automação com Power Automate](https://github.com/ri-beiro/power-automate-flow)
-- 🌐 [Site Responsivo com HTML, CSS e JS](https://github.com/ri-beiro/site-responsivo)
-
 ---
 
 > “Code. Learn. Repeat.” 💡  
