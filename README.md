@@ -1,7 +1,7 @@
 # Opa! Eu sou o Lucas Ribeiro 👨‍💻
 
 - 💻 Trabalho com suporte técnico e automação de processos  
-- 📚 Cursando Análise e Desenvolvimento de Sistemas (3º semestre)  
+- 📚 Formado em Análise e Desenvolvimento de Sistemas 
 - 🔎 Aprendendo continuamente sobre dados, programação e cloud  
 - 🎯 Objetivo: me tornar um especialista em dados e soluções digitais inteligentes
 
