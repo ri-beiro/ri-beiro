@@ -19,6 +19,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-ribeiro-461950203)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.riceirao11@gmail.com)
+[![Portifólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ri-beiro.github.io/Portifolio-Lucas/)
+
 
 ## 📊 GitHub Stats
 
